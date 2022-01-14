@@ -6,7 +6,7 @@ conformity with standards established in the Paris Agreement and Convention on B
 conservation of wildlife, ocean, and global ecosystems and the reduction of carbon emissions
 
 ### Authors
-Beauty Ikudehinbu b.ikudehinb@alustudent.com
+####Beauty Ikudehinbu b.ikudehinb@alustudent.com
 Dancan Odira d.odira@alustudent.com
 Kevin Onyancha k.onyancha@alustudent.com
 David Soro d.soro@alustudent.com
